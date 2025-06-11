@@ -81,18 +81,3 @@ Aplikasi ini menggunakan database MySQL.
 
 ### 4. Jalankan Aplikasi
 * Buka browser web Anda dan akses URL proyek Anda. Contoh: `http://localhost/nama_folder_proyek_anda/public` atau `http://nama_proyek.test` jika menggunakan Laragon/Valet.
-
-## Screenshot Aplikasi
-*(Sisipkan screenshot aplikasi Anda di sini. Pastikan jalur gambar benar.)*
-
-### Dashboard
-![Screenshot Dashboard](path/to/screenshot/dashboard.png)
-
-### Daftar Pemakaian Uang
-![Screenshot Daftar Pemakaian Uang](path/to/screenshot/daftar_duit.png)
-
-### Form Tambah/Edit Transaksi
-![Screenshot Form Transaksi](path/to/screenshot/tambah_edit_duit.png)
-
-### Laporan Keuangan
-![Screenshot Laporan Keuangan](path/to/screenshot/laporan.png)
