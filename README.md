@@ -1,4 +1,4 @@
-# Aplikasi Pencatatan Pemakaian Uang Bulanan (Vanilla PHP)
+# Aplikasi Pencatatan Pemakaian Uang Bulanan
 
 ## Deskripsi Proyek
 Aplikasi ini adalah sistem pencatat keuangan sederhana yang dirancang untuk membantu pengguna mengelola pemasukan dan pengeluaran uang bulanan mereka. Dibuat menggunakan PHP murni (Vanilla PHP) tanpa framework, aplikasi ini fokus pada kesederhanaan dan kemudahan pengelolaan file. Aplikasi ini menyediakan fitur dasar untuk menambah, melihat, mengedit, dan menghapus catatan transaksi, serta menampilkan laporan keuangan bulanan.
