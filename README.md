@@ -92,18 +92,16 @@ Aplikasi ini menggunakan database MySQL.
     ```
 
 ### 3. Pengaturan Folder dan File Proyek
-1.  Buat folder baru di dalam `htdocs` (XAMPP) atau `www` (Laragon/WAMP) dengan nama proyek Anda, contoh: `catatan_uang_sederhana`.
+1.  Buat folder baru di dalam `htdocs` (XAMPP) atau `www` (Laragon/WAMP) dengan nama proyek: `catatan_uang_sederhana`.
 2.  Di dalam folder `catatan_uang_sederhana`, buat struktur folder dan file berikut:
     ```
     catatan_uang_sederhana/
-    ├── index.php             <-- File PHP utama aplikasi (sudah mencakup semua logika dan tampilan)
-    ├── config.php            <-- Pengaturan koneksi database
-    ├── style.css             <-- Styling kustom aplikasi
+    ├── index.php           
+    ├── config.php         
+    ├── style.css          
     ├── uploads/
-    │   └── bukti/            <-- **Pastikan folder ini ada dan dapat ditulis oleh server (izin 777)**
-    └── .htaccess             <-- Opsional, untuk URL bersih (jika menggunakan Apache)
+    │   └── bukti/           
+    └── .htaccess            
     ```
-    *Catatan: Folder `vendor/dompdf` tidak lagi diperlukan karena fitur cetak PDF telah dihapus.*
-
 ### 4. Jalankan Aplikasi
 * Buka browser web Anda dan akses URL proyek Anda. Contoh: `http://localhost/catatan_uang_sederhana/`
